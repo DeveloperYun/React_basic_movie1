@@ -7,10 +7,15 @@
     padding-top: 50px;
 }
 
+body{
+    margin: 0;
+}
+
 .container{
     height: 100%;
     display: flex;
     justify-content: center;
+    background-color: gray;
 }
 
 .loader{
