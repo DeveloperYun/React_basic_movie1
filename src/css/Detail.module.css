@@ -1,0 +1,21 @@
+.detail_container{
+    background-color: wheat;
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+
+}
+
+.title_img{
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.info{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.description{
+    text-align: left;
+}
